@@ -1,4 +1,4 @@
-//alert("hai darling")
+alert("hai darling")
 // prompt("enter your age")
 // console.log("hai dear");
 // console.log(1234314);
